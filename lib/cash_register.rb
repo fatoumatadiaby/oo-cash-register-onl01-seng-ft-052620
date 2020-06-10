@@ -39,5 +39,4 @@ lass CashRegister
   end
 
 end
-end
 
