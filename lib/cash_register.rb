@@ -38,5 +38,5 @@ lass CashRegister
     @total -= last_array[0] * last_array[1]
   end
 
-end
+
 
